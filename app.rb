@@ -19,6 +19,3 @@ class App < Sinatra::Base
     erb :friends
   end
 end
-
-  end
-end
